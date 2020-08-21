@@ -33,7 +33,7 @@
     "@aabuhijleh/electron-remote": "^1.4.0",
     "@felixrieseberg/spellchecker": "^4.0.12",
     "bcp47": "^1.1.2",
-    "cld": "^2.5.1",
+    "cld": "https://github.com/infinityoneframework/node-cld",
     "debug": "^4.1.1",
     "keyboard-layout": "^2.0.16",
     "lru-cache": "^5.1.1",
